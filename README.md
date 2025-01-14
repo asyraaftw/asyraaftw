@@ -1,6 +1,6 @@
-# Helo 🏃🏼
+## Helo 🏃🏼
 
-- Open to learn new stuff
+- Learning new stuffs.
 
 ### Stats 📈📉
 
