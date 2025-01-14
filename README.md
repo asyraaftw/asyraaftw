@@ -11,4 +11,4 @@ Go to my [web](https://ashyrafwhoawd.com) [^1]
 
 [^1]: https://google.com
 
-![Asyraaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyraaftw&show_icons=true&theme=radical)
+![Asyraaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyraaftw&show_icons=true&theme=tokyonight)
