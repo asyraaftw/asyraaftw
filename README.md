@@ -1,6 +1,6 @@
-## Helo 🏃🏼
+## Hi 🏃🏼
 
-- Learning new stuffs.
+- Expanding my understanding.
 
 ### Stats 📈📉
 
