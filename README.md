@@ -1,4 +1,4 @@
-# Hi there
+# Hi there 🫰🏿
 
 ### My name is Ashraf who
 
@@ -11,4 +11,4 @@ Go to my [web](https://ashyrafwhoawd.com) [^1]
 
 [^1]: https://google.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asyraaftw&show_icons=true&theme=radical)
+![Asyraaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyraaftw&show_icons=true&theme=radical)
