@@ -10,3 +10,5 @@ Go to my [web](https://ashyrafwhoawd.com) [^1]
 # Reference
 
 [^1]: https://google.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asyraaftw)](https://github.com/asyraaftw/github-readme-stats)
